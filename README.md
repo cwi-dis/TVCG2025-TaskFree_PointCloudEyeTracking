@@ -5,4 +5,4 @@ This repository contains the source code for IEEE TVCG (IEEE VR 2025) paper "Com
 
 Code clean up is still under way. If you want to replicate this study, please refer to our previous work: [Task-Dependent PointCloud EyeTracking](https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking).
 
-The raw data of the gaze and visual saliency map will be updataed before IEEE VR 2025.
+The raw data of the gaze and visual saliency map will be updataed progressively.
